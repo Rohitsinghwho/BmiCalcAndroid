@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Basic_01app</string>
+    <string name="heading">BMI-CALCULATOR</string>
+    <string name="weight">Weight</string>"
+    <string name="height">Height</string>
+    <string name="calculate">Calculate</string>
+    <string name="result">Result</string>
+
+</resources>
